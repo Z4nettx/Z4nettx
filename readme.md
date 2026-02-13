@@ -13,9 +13,9 @@
 
 🎓 Studying Systems Analysis and Development on SENAI A. Jacob Laffer;
 
-🌐 I'm currently leanrning about webdev and front-end, using languages like HTML and CSS for now;
+🌐 I'm currently leanrning about webdev and front-end, using languages like PHP and JS for now;
 
-🏆 Participant in the SENAI selection process for WorldSkills in modality #17 - Web Development.
+🏆 Training to compete in SP Skills in modality #17 - Web Development.
  </h3>
  <br>
 <h1>🧑‍💻 Learned Technologies</h1>
