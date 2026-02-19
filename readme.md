@@ -1,33 +1,28 @@
-<p align="center">
- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F75D&width=435&lines=Welcome+to+my+profile!)](https://github.com/Z4nettx?tab=repositories)
 
 <h1> ZANETTX </h1>
-
-<h2>
-  
-**`Code by code, building the future. 🚀`** 
-</h2>
-
-<h3>
+<p>
 
 🎓 Studying Systems Analysis and Development on SENAI A. Jacob Laffer;
 
 🌐 I'm currently leanrning about webdev and front-end, using languages like PHP and JS for now;
 
 🏆 Training to compete in SP Skills in modality #17 - Web Development.
- </h3>
+</p>
+ </section>
  <br>
 <h1>🧑‍💻 Learned Technologies</h1>
- <div>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
- </div>
-  <h1> Find me 🔗 </h1>
+<div>
+   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /> 
+   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+         
+</div>
+<h1> Find me 🔗 </h1>
 
  <a href="https://www.linkedin.com/in/eduardozanettiluis" target="_blank"><img src="https://img.icons8.com/?size=50&id=8808&format=png&color=126BC4" target="_blank"> </a> 
  <a href="mailto:eduardozanettiluis@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank"> </a>
