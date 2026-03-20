@@ -44,7 +44,7 @@
 
 ## Find me 🔗
 
-<a href="https://linkedin.com/in/eduardozanettiluis"> ![alt](https://img.icons8.com/?size=100&id=13930&format=png&color=000000) </a>
-<a href="mailto:eduardozanettiluis@gmail.com"> ![alt](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000) </a>
-<a href="https://discord.com/users/533714947579052045"> ![alt](https://img.icons8.com/?size=100&id=30998&format=png&color=000000) </a>
+<a href="https://linkedin.com/in/eduardozanettiluis"> ![alt](https://img.icons8.com/?size=70&id=13930&format=png&color=000000) </a>
+<a href="mailto:eduardozanettiluis@gmail.com"> ![alt](https://img.icons8.com/?size=70&id=P7UIlhbpWzZm&format=png&color=000000) </a>
+<a href="https://discord.com/users/533714947579052045"> ![alt](https://img.icons8.com/?size=70&id=30998&format=png&color=000000) </a>
 
