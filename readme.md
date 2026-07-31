@@ -7,7 +7,7 @@
 
 <img src="https://img.shields.io/static/v1?label=%20&message=%20&color=EBF78A&style=flat" width="100%" height="3px">
 
-## Future web-developer | SPSkills Competitor | Full-stack enthusiast
+## Future Fullstack Developer | SPSkills Competitor
 
 <table width="100%" cellspacing="0" cellpadding="10">
   <tr>
