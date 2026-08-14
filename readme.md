@@ -12,6 +12,7 @@
 <div align="center">
   
 # Eduardo Zanetti
+
 </div>
 
 ```php
@@ -37,28 +38,11 @@ $eduardoZanetti = [
   ]
 ];
 ```
-
-<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </td>
 </tr>
 </table>
 <div align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,mysql,react,git,github,vscode&theme=dark" /> </div>
-<div align="center"> 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Z4nettx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z4nettx&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=Z4nettx&theme=tokyonight&hide_border=true" /> 
-</div>
-<div align='center'>
-
-## 📌 Projetos em destaque
-
-<a href="https://github.com/Z4nettx/DiarioCatolico">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Z4nettx&repo=DiarioCatolico&theme=tokyonight&hide_border=true" />
-</a>
-  <a href="https://github.com/Z4nettx/AgentePessoal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Z4nettx&repo=AgentePessoal&theme=tokyonight&hide_border=true" />
-</a>
-</div>
 <div align='center'>
   
 ## Find me 🔗
